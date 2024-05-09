@@ -26,7 +26,7 @@ function H5P() {
           href="https://github.com/swaragreddy07/movieDatabase"
           target="_blank"
         >
-          <button class={`${styles.button} ${style.button}`}>Visit Code</button>
+          <button class={`${styles.button} ${style.button}`}>View Code</button>
         </a>
       </div>
     </div>
